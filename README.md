@@ -1,8 +1,3 @@
-wp-theme-development
-====================
-
-WordPress Theme Development in Bangla
-
 # বাংলায় ওয়ার্ডপ্রেস থিম ডেভলপমেন্ট 
 <a href="http://www.zovoxz.com/ebook/wp-theme-development">ZOVOXZ Ebook</a>
 
